@@ -1,2 +1,2 @@
 nuevo archivo
-version 1
+version 2
